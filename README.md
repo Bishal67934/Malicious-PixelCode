@@ -2,6 +2,11 @@
 
 ![photo_2025-11-22_09-20-43](https://github.com/user-attachments/assets/73929cb5-399a-4003-a198-301c165d71fb)
 
+---------------------------------------------------------------------------------------------------------------------
+
+> [!CAUTION]
+> **Important Notice**: This project is strictly for educational, research, and defensive security purposes only. Unauthorized use of these techniques may violate laws and result in serious legal consequences.
+
 ## What is the Pixel Code?
 
 Pixel Code is a research concept that represents binary data in the form of visual pixels where
@@ -113,6 +118,11 @@ Once restored the payload is executed, ultimately re-establishing command and co
 with the BEAR-C2 server used in the research setup.
 
 <img width="1247" height="666" alt="Screenshot From 2025-11-22 09-08-27" src="https://github.com/user-attachments/assets/1953c15a-f67e-497b-bcfd-21d4b31653f8" />
+
+## ⚠️ Legal Disclaimer
+This is for research, awareness, and educational purposes, I am not responsible if anyone uses this technique for illegal purposes.
+
+
 
 
 

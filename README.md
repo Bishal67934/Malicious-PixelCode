@@ -1,5 +1,7 @@
 # Malicious PixelCode Delivery Technique
 
+Malicious PixelCode is a security research project that demonstrates a covert technique for encoding executable files into pixel data and storing them inside images or videos. A lightweight loader retrieves the media file, reconstructs the original binary, and executes it in memory. This project highlights unconventional data delivery and obfuscation methods for educational and research purposes only.
+
 ![photo_2025-11-22_09-20-43](https://github.com/user-attachments/assets/73929cb5-399a-4003-a198-301c165d71fb)
 
 ---------------------------------------------------------------------------------------------------------------------

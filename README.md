@@ -121,6 +121,14 @@ with the BEAR-C2 server used in the research setup.
 
 <img width="1247" height="666" alt="Screenshot From 2025-11-22 09-08-27" src="https://github.com/user-attachments/assets/1953c15a-f67e-497b-bcfd-21d4b31653f8" />
 
+---------------------------------------------------------------------------------------------------------------------
+
+## (PixelCode Demo)
+
+
+https://github.com/user-attachments/assets/1dcb1570-b116-438e-b826-4ce639a1c13c
+
+
 ## ⚠️ Legal Disclaimer
 This is for research, awareness, and educational purposes, I am not responsible if anyone uses this technique for illegal purposes.
 

